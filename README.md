@@ -9,8 +9,9 @@ data/train.parquet - обучающая выборка.
 data/test.parquet - тестовая выборка.
 
 LSTM_solution.ipynb - Jupyter notebook, в котором предоставлено решение и скрипт для создания submission.csv
-lstm_model.h5 - файл, с обученной моделью LSTM
-submission.csv - файл, с результатами работы модели, с полями id и score (вероятность отношения к классу 1)
+lstm_model.h5 - файл с обученной моделью LSTM
+submission.csv - файл с результатами работы модели, с полями id и score (вероятность отношения к классу 1)
+solution.rar - архив со всеми выше указаными файлами 
 
 Инструкция:
 1. Открыть файл LSTM_solution.ipynb
